@@ -1,0 +1,22 @@
+{
+  "name": "Northern Trail Manufacturing",
+  "description": "Sample application",
+  "env": {
+    "SF_CLIENT_ID": {
+        "description": "Consumer key of your Salesforce Connected App",
+        "value":"3MVG9d8..z.hDcPL02a_cf6SoQ8vjkm60fWQzqCbvqdpFgc0winksdNnnUfRfzL3rJ6f8MGx6603j.3dhlM6k"
+    },
+    "SF_CLIENT_SECRET": {
+        "description": "Consumer secret of your Salesforce Connected App",
+        "value":"5399348578143828655"
+    },
+    "SF_USER_NAME": {
+        "description": "Salesforce username for your integration user",
+        "value":"lfarbotko@gmail.com.imp"
+    },
+    "SF_USER_PASSWORD": {
+        "description": "Salesforce password for your integration user",
+        "value":"Cloud007777"
+    }
+  }
+}
